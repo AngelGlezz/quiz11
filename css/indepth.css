@@ -248,9 +248,8 @@
 }
 
 #indepth_cover .indepth_parallax_back{
-	background-image: url(../images/Portada.jpg);
 	background-position: 50% 50%;
-	background-color: white;
+	background-color: #042a4e;
 	background-size: cover;
 	display: table;
 	width: 100%;
