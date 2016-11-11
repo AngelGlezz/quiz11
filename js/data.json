@@ -1,0 +1,424 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál fue el último resultado de México en Columbus?",
+      "respuestas": [
+        {
+          "respuesta": "1-0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "3-1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1-2",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2-0",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántas veces ganó el Tri en Columbus tras su inauguración en 2009 en eliminatorias?",
+      "respuestas": [
+        {
+          "respuesta": "Una",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ninguna",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Dos",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Tres",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": " ¿Cuál es el resultado más recurrente en Columbus entre México y E.U.A.?",
+      "respuestas": [
+        {
+          "respuesta": "1-0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1-1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2-0",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "1-2",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué jugador norteamericano le ha metido más goles al Tri en Columbus?",
+      "respuestas": [
+        {
+          "respuesta": "Donovan",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Dempsey",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Jones",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Bradley",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos goles le ha metido Dempsey a México en Columbus?",
+      "respuestas": [
+        {
+          "respuesta": "0",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué jugador del Tri anotó en Columbus?",
+      "respuestas": [
+        {
+          "respuesta": "Chicharito",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Cuauhtémoc",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Borgetti",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ninguno",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos goles ha anotado el Tri en Columbus?",
+      "respuestas": [
+        {
+          "respuesta": "2",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "0",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál es el balance del Tri en Columbus en cuatro partidos de eliminatoria?",
+      "respuestas": [
+        {
+          "respuesta": "Cuatro derrotas",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Cuatro victorias",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Dos empates y dos derrotas",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Dos victorias y dos empates",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué año fue el último donde México no perdió como visita en eliminatorias contra E.U.A.?",
+      "respuestas": [
+        {
+          "respuesta": "2001",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2005",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2009",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1997",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué estadio estadounidense obtuvo México su último empate (1997)?",
+      "respuestas": [
+        {
+          "respuesta": "Rose Bowl",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Foxbrough",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Memorial Coliseum",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Memorial Stadium",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quiénes anotaron los goles en el empate a dos goles en 1997?",
+      "respuestas": [
+        {
+          "respuesta": "Cuauhtémoc y Luis García",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Luis Hernández y Ramon Ramírez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Hermosillo y Luis Hernández",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Peláez y Cuauhtémoc",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuándo fue la última vez que México le ganó a E.U.A. en las eliminatorias como visita?",
+      "respuestas": [
+        {
+          "respuesta": "1972",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "2001",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1993",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2005",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuál fue el marcador de ese partido?",
+      "respuestas": [
+        {
+          "respuesta": "0-1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1-2",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "0-2",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1-3",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién fue el último seleccionado expulsado en Columbus?",
+      "respuestas": [
+        {
+          "respuesta": "Cuauhtémoc",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Raúl Rodrigo Lara",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Rafael Márquez",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Ignacio Ambriz",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Último jugador nacionalizado que jugó en Columbus",
+      "respuestas": [
+        {
+          "respuesta": "Leandro",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Guille Franco",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Sinha",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Chaco Giménez",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué portero mexicano ha sufrido más derrotas en Columbus?",
+      "respuestas": [
+        {
+          "respuesta": "Ochoa",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Corona",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Oswaldo Sánchez",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Jorge Campos",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién fue el último técnico de México en Columbus?",
+      "respuestas": [
+        {
+          "respuesta": "Chepo de la Torre",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Piojo Herrera",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Eriksson",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Luis Fernando Tena",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué jugador anotó el último gol contra México?",
+      "respuestas": [
+        {
+          "respuesta": "Donovan",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Dempsey",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Johnson",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Jones",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién falló un penal en la última victoria de Estados Unidos allá?",
+      "respuestas": [
+        {
+          "respuesta": "Chicharito",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Dempsey",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Rafa Márquez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Donovan",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos goles le faltan a Chicharito para empatar a Borgetti?",
+      "respuestas": [
+        {
+          "respuesta": "2",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        }
+      ]
+    }
+  ]
+}
